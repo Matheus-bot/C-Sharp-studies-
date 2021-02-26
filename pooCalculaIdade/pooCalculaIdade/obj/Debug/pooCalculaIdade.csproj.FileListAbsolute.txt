@@ -1,0 +1,7 @@
+C:\Users\mathe\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\pooCalculaIdade.exe.config
+C:\Users\mathe\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\pooCalculaIdade.exe
+C:\Users\mathe\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\pooCalculaIdade.pdb
+C:\Users\mathe\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.exe
+C:\Users\mathe\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\pooCalculaIdade.pdb

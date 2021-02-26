@@ -1,0 +1,7 @@
+C:\Users\mathe\source\repos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Users\mathe\source\repos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Users\mathe\source\repos\InverterNomes\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Users\mathe\source\repos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Users\mathe\source\repos\InverterNomes\InverterNomes\obj\Debug\InverterNomes.pdb
