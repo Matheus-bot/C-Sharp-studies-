@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\bin\Debug\netcoreapp3.1\PrimeiroArray.exe
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\bin\Debug\netcoreapp3.1\PrimeiroArray.deps.json
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\bin\Debug\netcoreapp3.1\PrimeiroArray.runtimeconfig.json
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\bin\Debug\netcoreapp3.1\PrimeiroArray.runtimeconfig.dev.json
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\bin\Debug\netcoreapp3.1\PrimeiroArray.dll
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\bin\Debug\netcoreapp3.1\PrimeiroArray.pdb
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\obj\Debug\netcoreapp3.1\PrimeiroArray.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\obj\Debug\netcoreapp3.1\PrimeiroArray.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\obj\Debug\netcoreapp3.1\PrimeiroArray.AssemblyInfo.cs
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\obj\Debug\netcoreapp3.1\PrimeiroArray.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\obj\Debug\netcoreapp3.1\PrimeiroArray.dll
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\obj\Debug\netcoreapp3.1\PrimeiroArray.pdb
+C:\Users\mathe\source\repos\PrimeiroArray\PrimeiroArray\obj\Debug\netcoreapp3.1\PrimeiroArray.genruntimeconfig.cache
