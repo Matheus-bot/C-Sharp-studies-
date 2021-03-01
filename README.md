@@ -1,6 +1,6 @@
 # C-Sharp-studies-
 
 
-Exercícios
-Projetos e
-Desafios
+**Exercícios**
+**Projetos** e
+**Desafios**
