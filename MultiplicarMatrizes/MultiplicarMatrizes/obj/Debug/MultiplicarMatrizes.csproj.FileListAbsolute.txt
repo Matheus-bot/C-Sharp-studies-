@@ -1,0 +1,7 @@
+C:\Users\mathe\source\repos\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe.config
+C:\Users\mathe\source\repos\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe
+C:\Users\mathe\source\repos\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.pdb
+C:\Users\mathe\source\repos\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.exe
+C:\Users\mathe\source\repos\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.pdb
