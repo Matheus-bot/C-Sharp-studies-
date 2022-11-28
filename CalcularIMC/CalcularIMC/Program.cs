@@ -10,10 +10,10 @@ namespace CalcularIMC
     {
         static void Main(string[] args)
         {
-            Console.Write("Informe o peso em Kg: ");
+            Console.Write("Qual seu peso em Kg: ");
             double peso = double.Parse(Console.ReadLine()); // parse converte uma string em double 
 
-            Console.Write("Informe a altura em metros:");
+            Console.Write("Qual sua altura em metros:");
             double altura = double.Parse(Console.ReadLine());
 
             double valorIMC = peso / (altura * altura);
